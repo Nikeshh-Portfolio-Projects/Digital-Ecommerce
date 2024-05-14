@@ -3,7 +3,7 @@
   "name": "App name",
   "builds": [
     {
-      "src": "api/**/*.ts",
+      "src": "api/**/*.js",
       "use": "@now/node",
       "config": {
         "maxLambdaSize": "50mb"
