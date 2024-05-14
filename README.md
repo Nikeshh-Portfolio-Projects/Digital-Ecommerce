@@ -1,1 +1,1 @@
-# Ecommerce Marketplace built with Nextjs and PayloadCMS
+# Ecommerce Marketplace built with Nextjs 13 + Express + Payload CMS + TRPC
